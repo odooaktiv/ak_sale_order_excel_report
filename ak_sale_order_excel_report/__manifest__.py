@@ -12,7 +12,6 @@
     'version': '13.1.1.0.0',
     'depends': [
         'sale',
-        'report_xlsx',
     ],
     'data': [
         'report/menu_sale_xlsx.xml',
